@@ -14,7 +14,6 @@ int main(){
  }
 
  else
-    //printf("%.2f\n",y);
     cout<<y<<endl;
 
  return 0;
